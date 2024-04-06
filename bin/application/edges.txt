@@ -1,0 +1,44 @@
+Rafah, Tal Al Sultan
+Al Mawasi, Tal Al Sultan
+Al Mawasi, r3
+r3, Khan Yunis
+Rafah, r2
+r2, Khan Yunis
+Rafah, Al Bayuk
+Rafah, Al Bayuk
+Al Bayuk, alBuyuki
+Um Kameil, alBuyuki
+Um Kameil, Al Fukhkhari
+Um Kameil, r1
+r1, Khan Yunis
+Abasan Al Jadida, Khan Yunis
+Al Fukhkhari, alBuyuki
+Al Fukhkhari, Abasan Al Jadida
+Jarara, Abasan Al Jadida
+Jarara, Khan Yunis
+Al Ma'ani, Khan Yunis
+Jarara, Al Ma'ani
+Deir al Balah, Al Ma'ani
+Deir al Balah, Az Zawayda
+Maghazi, Az Zawayda
+Bureij, Az Zawayda
+Bureij, Nuseirat Camp
+Juhor ad Dik, Nuseirat Camp
+Al-Zahra, Nuseirat Camp
+Al-Zahra, Juhor ad Dik
+Wahsh, Juhor ad Dik
+Wahsh, Jabalia
+Beit lahia, Jabalia
+Jabalia, r6 
+r6, beit Hanoun
+Atatra, r5 
+r5, Jabalia
+Atatra, Beit lahia
+beit Hanoun, Beit lahia
+Al-Zahra, Wahsh
+Bureij, Juhor ad Dik
+Nuseirat Camp, Az Zawayda
+Maghazi, Bureij
+Deir al Balah, Maghazi
+Rimal, Jabalia
+Rimal, Wahsh
